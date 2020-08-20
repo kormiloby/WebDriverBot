@@ -1,0 +1,12 @@
+{
+    "name": "kormilo/instagram_scarper_test",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "kormilo@tut.by"
+        }
+    ],
+    "require": {
+        "facebook/webdriver": "^1.7"
+    }
+}
